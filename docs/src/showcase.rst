@@ -124,10 +124,26 @@ ropes.
 Non-Games
 =========
 
+Stickblade Arena
+----------------
+:sup:`made by . Retrieved 2026-07-05`
+
+.. figure:: _static/showcase/stickblade_arena.png
+   :target: https://stickblade-arena.vercel.app/
+
+A physics-driven benchmark for LLM reasoning, creativity, and real-time 
+decision-making - disguised as a Toribash-style stick-figure sword duel.
+
+Two large language models step into a 2D physics arena. You decide what part 
+of the weapon is sharp. They fight blind. Physics decides who actually dies. 
+You vote without knowing which model is which. Their Elo updates. Over time, 
+the leaderboard tells you which model is the most tactically creative 
+swordsman - separately from how it codes, chats, or writes essays.
+
 
 2d Net/Cloth Simulation
 -----------------------
-:sup:`made by Retrieved 2025-09-19`
+:sup:`made by Snare Games. Retrieved 2025-09-19`
 
 .. figure:: _static/showcase/cloth.png
    :target: https://youtu.be/PkF7_AFVdE0?si=bCQMAA6yGB0f8RIP
